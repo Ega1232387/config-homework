@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<root>
+    <visualizer_path>/usr/bin/dot</visualizer_path>
+    <package_name>curl</package_name>
+    <output_file>output.mmd</output_file>
+    <base_url>http://dl-cdn.alpinelinux.org/alpine</base_url>
+    <max_depth>3</max_depth>
+</root>
